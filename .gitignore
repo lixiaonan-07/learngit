@@ -3,6 +3,7 @@
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
+*.a
 ehthumbs_vista.db
 
 # Dump file
